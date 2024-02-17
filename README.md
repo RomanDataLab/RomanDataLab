@@ -24,7 +24,7 @@
 - [Urban science portfolio](https://blog.iaac.net/user/roman+pomazan/)
 - [Urban planning portfolio](https://www.youtube.com/@UrbanSustainArchitects)
 
-![](https://github-readme-stats.vercel.app/api?username=bablowsky&theme=white&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=bablowsky&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 ## Featured projects 2023
 -  [Research and risk assessment of plots for cottage development in Almaty metropolitan area](https://www.youtube.com/watch?v=U0SPB4GNTUU)
