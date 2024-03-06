@@ -1,6 +1,6 @@
 # Hi, I am Roman
 
-## Data Engineer professional with a Master degree in City and Technology from [IAAC](https://iaac.net/educational-programmes/masters-programmes/master-in-city-technology/) in Barcelona, working in a stack of BIM, Computational design, GIS, maps, ML, AI and urban sensing.
+## Data Engineer professional working in a stack of BIM, Computational design, GIS, maps, ML, AI and urban sensing.
  
 # 💻 Tech Stack:
 - **Programming**: Python, R
