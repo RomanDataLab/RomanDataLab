@@ -3,7 +3,7 @@
 ## Data Engineer professional working in a stack of BIM, Computational design, GIS, maps, ML, AI and urban sensing.
  
 # 💻 Tech Stack:
-- **Programming**: Python, R
+- **Programming**: Python, R, React, JS
 - **Web development**: HTML/CSS, JavaScript, ShapeDriver
 - **Databases**: PostgreSQL, SQLite
 - **Computational design**: Rhinoceros 3D/Grasshopper, Wallacey
